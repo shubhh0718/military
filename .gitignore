@@ -1,0 +1,34 @@
+# Compiled Java classes
+*.class
+com/
+
+# IDE
+.classpath
+.project
+.settings/
+*.classpath
+*.project
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Build output
+bin/
+build/
+out/
+
+# IDE specific
+.idea/
+*.iml
+*.swp
+*.swo
+*~
+
+# Database
+*.db
+*.sqlite
+*.sql.bak
