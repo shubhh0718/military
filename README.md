@@ -4,7 +4,7 @@ A comprehensive GUI-based application for managing military weapons inventory us
 
 ## Features
 
-✅ **Complete Weapon Management**
+**Complete Weapon Management**
 - Add new weapons to inventory
 - View all weapons in a table format
 - Update existing weapon details
@@ -12,19 +12,19 @@ A comprehensive GUI-based application for managing military weapons inventory us
 - Search weapons by name
 - Filter weapons by type
 
-✅ **Inventory Reports**
+**Inventory Reports**
 - Total inventory value calculation
 - Total weapons count
 - Low stock weapon alerts (less than 5 units)
 - Detailed inventory report with all weapon details
 
-✅ **Database Integration**
+**Database Integration**
 - MySQL database backend
 - JDBC connectivity
 - Prepared statements for secure SQL execution
 - Connection pooling
 
-✅ **User-Friendly GUI**
+**User-Friendly GUI**
 - Tabbed interface for different operations
 - Menu-driven navigation
 - Form validation
