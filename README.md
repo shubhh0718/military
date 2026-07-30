@@ -74,7 +74,7 @@ Change the password if you have set one for your MySQL root user.
 Navigate to the project directory and run:
 
 ```bash
-cd "c:\Users\Utkarsh vatshayan\Downloads\Military managemnt"
+cd "c:\Users\Shubham\Downloads\Military managemnt"
 
 # Compile all Java files
 javac -d src/main/java -cp lib/mysql-connector-java-8.0.33.jar src/main/java/com/military/weapon/*.java
